@@ -17,6 +17,8 @@ import 'package:share_plus/share_plus.dart';
 
 // import 'image_previews.dart';
 
+//こちらはpub.devからコピーしたものを貼り付けただけなのでコメントアウトが十分ではないです。
+
 void main() {
   runApp(const DemoApp());
 }
